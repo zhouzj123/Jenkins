@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-nt main(int argc, char **argv)
+int main(int argc, char **argv)
 {
-opf	printf("Jenkins test\n");
-	printf("========\n");
+	printf("Jenkins test\n");
+	printf("===w2=====\n");
 }
