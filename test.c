@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-	2printf("Jenkins test\n");
+	printf("Jenkins test\n");
 	printf("===w2=====\n");
 }
